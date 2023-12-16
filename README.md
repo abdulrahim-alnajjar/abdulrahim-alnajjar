@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFoKOBzBPJeSw/profile-displaybackgroundimage-shrink_350_1400/0/1700006981535?e=1707955200&v=beta&t=J3IUIcniIpdszo9d1eS3nrBE3Q7wq9fcaT4xyF_Z_I0" style="border-radius:5px; width: 100%; overflow:hidden" />
+<img src="https://media.licdn.com/dms/image/D4D16AQFoKOBzBPJeSw/profile-displaybackgroundimage-shrink_350_1400/0/1700006981535?e=1707955200&v=beta&t=J3IUIcniIpdszo9d1eS3nrBE3Q7wq9fcaT4xyF_Z_I0" style="border-radius:5px;width:100%;overflow:hidden" />
 <h1 align="center">Hi👋!! I'm Abdulrahim Alnajjar</h1>
 <h3 align="center">I'm Web Developer.</h3>
 
@@ -9,13 +9,13 @@
 <!-- Social Media -->
 <h3>Connect with me:</h3>
 <!-- Linked in -->
-<a href="https://linkedin.com/in/abdulrahim-alnajjar" target="blank"><img src="./social/in.png" alt="Linked In"/></a>
+<a href="https://linkedin.com/in/abdulrahim-mohamed" target="_blank"><img src="./social/in.png" alt="Linked In"/></a>
 <!-- Facebook -->
-<a href="https://fb.com/alnajjar9742" target="blank"><img src="./social/fb.png" alt="Facebook"/></a>
+<a href="https://fb.com/alnajjar9742" target="_blank"><img src="./social/fb.png" alt="Facebook"/></a>
 <!-- Whats app -->
-<a href="https://wa.me/+201156083661" target="blank"><img src="./social/wa.png" alt="Whats App"/></a>
+<a href="https://wa.me/+201156083661" target="_blank"><img src="./social/wa.png" alt="Whats App"/></a>
 <!-- Insta -->
-<a href="https://instagram.com/abdulrahim_alnajjar/" target="blank"><img src="./social/insta.png" alt="Insta"/></a>
+<a href="https://instagram.com/abdulrahim_alnajjar/" target="_blank"><img src="./social/insta.png" alt="Insta"/></a>
 
 <!-- Tools -->
 <h3>Languages and Tools:</h3>
