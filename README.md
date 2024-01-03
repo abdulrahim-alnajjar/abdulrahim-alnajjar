@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Combuter and Systems Engineering**.
 - 💬 Ask me about **Web Development**.
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahim-alnajjar&show_icons=true&locale=en&layout=compact" alt="abdulrahim-alnajjar" /></p>
+
 <!-- Social Media -->
 <h3>Connect with me:</h3>
 <!-- Linked in -->
@@ -55,9 +57,3 @@
 <!-- adobe ph -->
 <img src="./tools/adobe_ph.png" alt="ph"/>
 </p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahim-alnajjar&show_icons=true&locale=en&layout=compact" alt="abdulrahim-alnajjar" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-alnajjar&show_icons=true&locale=en" alt="abdulrahim-alnajjar" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahim-alnajjar&" alt="abdulrahim-alnajjar" /></p>
