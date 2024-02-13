@@ -4,7 +4,7 @@
 
 I'm Web Developer and Software Engineer, Here I share my projects and ideas with 💙 the world.
 
-## My Projects:
+## Some of My Projects:
 
 #### Vue.JS & Nuxt.JS Projects:
 - Aphrodite Site: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/aphrodite-vuejs) | [Demo↗️](https://abdulrahim-alnajjar.github.io/aphrodite-vuejs/)
