@@ -1,10 +1,8 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFoKOBzBPJeSw/profile-displaybackgroundimage-shrink_350_1400/0/1700006981535?e=1707955200&v=beta&t=J3IUIcniIpdszo9d1eS3nrBE3Q7wq9fcaT4xyF_Z_I0" style="width:100%" />
-
-<h1 align="center">Hi👋!! I'm Abdulrahim Alnajjar</h1>
+# Hi👋!! I'm Abdulrahim Alnajjar
 
 I'm Web Developer and Software Engineer, Here I share my projects and ideas with 💙 the world.
 
-## Some of My Projects:
+## My Projects:
 
 #### Vue.JS & Nuxt.JS Projects:
 - Aphrodite Site: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/aphrodite-vuejs) | [Demo↗️](https://abdulrahim-alnajjar.github.io/aphrodite-vuejs/)
