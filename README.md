@@ -13,7 +13,7 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 - Registering Page: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/Logging_site) | [Demo↗️](https://abdulrahim-alnajjar.github.io/Logging_site/)
 
 #### Angular.JS Projects:
-- Name: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/angular-app-1-ecom) | [Demo↗️](https://abdulrahim-alnajjar.github.io/angular-app-1-ecom/)
+- E-Shop Site: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/angular-app-1-ecom) | [Demo↗️](https://abdulrahim-alnajjar.github.io/angular-app-1-ecom/)
 
 #### Static Pages Projects:
 - Coursata Site: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/Coursata_Project) | [Demo↗️](https://abdulrahim-alnajjar.github.io/Coursata_Project/)
