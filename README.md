@@ -2,7 +2,7 @@
 
 I'm Web Developer and Software Engineer, Here I share my projects and ideas with 💙 the world.
 
-![icon](https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/1ca06102-a2fe-485f-a317-1ba987e23a50)
+
 
 
 <!-- All Projects -->
