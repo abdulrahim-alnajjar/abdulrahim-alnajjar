@@ -2,9 +2,16 @@
 
 I'm Web Developer and Software Engineer, Here I share my projects and ideas with 💙 the world.
 
+<!-- Contact Links -->
+## Contact With Me:
+<a href="https://google.com](https://www.linkedin.com/in/abdulrahim-mohamed"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/639baef9-cc6d-4051-8917-18de9141897f"/></a>
+<a href="https://wa.me/+201156083661"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/f16ef96f-25ce-416c-84c6-bed3e28a3483"/></a>
+<a href="https://wa.me/+201090273880"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/9d2173f4-57a6-4fcf-9f31-37cb37217729"/></a>
+<a href="https://www.facebook.com/alnajjar9742"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/07d71a93-af76-4776-8629-98023b5bff37"/></a>
+<!-- <a href=""><img style="width:28px" src=""/></a> -->
+
 <!-- All Projects -->
 ## My Projects:
-
 <!-- Vue and Nuxt Sites -->
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/3f1c8fdf-d32c-4dfc-afca-7624f2979cc2"/> <img style="width:18px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png"/> Vue.JS & Nuxt.JS Projects:
 - Aphrodite Site: [GtiHub Repo↗️](https://github.com/abdulrahim-alnajjar/aphrodite-vuejs) | [Demo↗️](https://abdulrahim-alnajjar.github.io/aphrodite-vuejs/)
