@@ -22,8 +22,8 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/3f1c8fdf-d32c-4dfc-afca-7624f2979cc2"/> <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/4a2ccff3-5da7-4e85-bb40-396926ad8786"/> Vue.JS & Nuxt.JS Projects:
 - Aphrodite Site: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/aphrodite-vuejs) | [Demo](https://abdulrahim-alnajjar.github.io/aphrodite-vuejs/)
 - Avomra Site: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/avomra-dist) | [Demo](https://avomra-eg.web.app/)
-- Student Management System: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/student-system) | [Demo](https://www.linkedin.com/posts/abdulrahim-mohamed_octopus-introductory-video-github-https-activity-7107374374151725056-QcPz?utm_source=share&utm_medium=member_desktop)
 - Registering Page: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/Logging_site) | [Demo](https://abdulrahim-alnajjar.github.io/Logging_site/)
+- Student Management System: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/student-system) | [Demo](https://www.linkedin.com/posts/abdulrahim-mohamed_octopus-introductory-video-github-https-activity-7107374374151725056-QcPz?utm_source=share&utm_medium=member_desktop)
 
 <!-- Angular Sites -->
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/303c93ce-1868-416c-b335-11cd484b3274"/> Angular.JS Projects:
