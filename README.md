@@ -4,10 +4,10 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 
 <!-- Contact Links -->
 ## Contact With Me:
-<a href="https://www.linkedin.com/in/abdulrahim-mohamed" target="_blank"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/639baef9-cc6d-4051-8917-18de9141897f"/></a>
+<a href="https://www.linkedin.com/in/abdulrahim-mohamed"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/639baef9-cc6d-4051-8917-18de9141897f"/></a>
 <a href="https://wa.me/+201156083661"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/f16ef96f-25ce-416c-84c6-bed3e28a3483"/></a>
-<a href="https://wa.me/+201090273880"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/9d2173f4-57a6-4fcf-9f31-37cb37217729"/></a>
 <a href="https://www.facebook.com/alnajjar9742"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/07d71a93-af76-4776-8629-98023b5bff37"/></a>
+<a href="https://wa.me/+201090273880"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/9d2173f4-57a6-4fcf-9f31-37cb37217729"/></a>
 <!-- <a href=""><img style="width:28px" src=""/></a> -->
 
 <!-- All Projects -->
