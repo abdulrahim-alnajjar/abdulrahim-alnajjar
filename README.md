@@ -12,7 +12,7 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 <a href="https://www.instagram.com/abdulrahim_alnajjar"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/9f3b0d24-fb88-4fcf-82b4-0cd3a461bbc1"/></a>
 
 #### CV Link: 
-<a title="My CV" href="https://docs.google.com/document/d/1qbI5i0moD5vWlKH_wvNnKhZyuJTcJpda36w6TgMDr_o/edit?usp=sharing"><img style="width:28px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/64d32407-23e4-4984-9110-2eb65e10fecb"/></a>
+<a title="My CV" href="https://docs.google.com/document/d/1qbI5i0moD5vWlKH_wvNnKhZyuJTcJpda36w6TgMDr_o/edit?usp=sharing"><img style="width:50px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/64d32407-23e4-4984-9110-2eb65e10fecb"/></a>
 <!-- <a href="مستقل"><img style="width:28px" src=""/></a> -->
 <!-- <a href=""><img style="width:28px" src=""/></a> -->
 
