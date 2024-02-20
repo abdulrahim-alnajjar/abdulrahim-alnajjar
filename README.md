@@ -28,6 +28,7 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 <!-- Angular Sites -->
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/303c93ce-1868-416c-b335-11cd484b3274"/> Angular.JS Projects:
 - E-Shop Site: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/angular-app-1-ecom) | [Demo](https://abdulrahim-alnajjar.github.io/angular-app-1-ecom/)
+- Books Store: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/rereadous-book-store) | [Demo](https://abdulrahim-alnajjar.github.io/rereadous-book-store/)
 
 <!-- Static Sites -->
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/dd867f5c-ef7e-4e33-8277-54d8101c14bd"/> <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/73fd40e8-3ef3-4639-9417-719b7411cdc7"/> <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/20471182-0f89-45bc-81cd-e366cfa2f966"/> Static Pages Projects:
