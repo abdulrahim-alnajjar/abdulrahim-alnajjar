@@ -22,7 +22,6 @@ I'm Web Developer and Software Engineer, Here I share my projects and ideas with
 <!-- Angular Sites -->
 ### <img style="width:18px" src="https://github.com/abdulrahim-alnajjar/abdulrahim-alnajjar/assets/119762444/303c93ce-1868-416c-b335-11cd484b3274"/> Angular.JS Projects:
 - TutorHub: [Demo](https://tutorhub123.netlify.app/)
-- <a href="https://tutorhub123.netlify.app/" target="_blank">Demo</a>
 - Lawyers System: [Demo](https://lawyer-65.netlify.app/)
 - E-Shop Site: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/angular-app-1-ecom) | [Demo](https://abdulrahim-alnajjar.github.io/angular-app-1-ecom/)
 - Books Store: [GtiHub Repo](https://github.com/abdulrahim-alnajjar/rereadous-book-store) | [Demo](https://abdulrahim-alnajjar.github.io/rereadous-book-store/)
